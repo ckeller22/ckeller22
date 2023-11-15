@@ -1,13 +1,13 @@
 # Hi there! 👋
-My name is Chris Keller, and I am a software engineer, IT expert, and a nerd. I graduated from [Western Governors University](https://www.wgu.edu/) with a Bachelor of Science in [Software Development](https://www.wgu.edu/online-it-degrees/software-development-bachelors-program.html). I am currently looking for new and exciting opportunities!
+My name is Chris, and I am an experienced software engineer with a passion for building scalable, performant, and user-friendly applications. With a background in both front-end and back-end development, I strive to create seamless digital experiences that drive value and impact.
 
-Growing up I had always had a passion for taking things apart, breaking stuff, and figuring out how to put things back together again. I am a creative person and love creating and designing beautiful experiences and elegant software and solutions. Whether it be music, art, or technology, I just love to make things.
+Growing up I had always had a passion for taking things apart, breaking stuff, and figuring out how to put things back together again. I’ve been driven by an insatiable curiosity and a need to understand the how and the why things work. It's how I’ve always lived. The joy of learning and quest for knowledge fuels me.
 
-I am also a natural problem solver and I get a lot of gratification solving difficult problems. I am [A+ certified](https://www.comptia.org/certifications/a) and can provide IT troubleshooting support. I've built and maintained several computers.
+As a creative, I love designing beautiful experiences and elegant software solutions. Whether it be music, art, or technology, I just love to make things. I take great pleasure in the process of transforming visions into reality and bringing dreams to life.
 
-In my free time, I love to make music, play board and video games, and enjoy a beer or two with friends.
+I am also a natural problem solver and I get a lot of gratification in thinking up solutions and solving difficult problems.
 
-I am always looking for any new opportunities. Whether you need an app built and designed, an IT professional, or you just want to shoot me a hello, my inbox is always open. I'll make sure to get back to you as soon as possible. 
+Off the clock, I'm a gamer, a nerd, and a professional hobby collector. I'm always on the lookout for new adventures and opportunities. If you're interested in collaborating, learning more about my work, or just want to chat, feel free to reach out or connect with me on LinkedIn.
 
 Get in touch with me below!
 
