@@ -1,4 +1,4 @@
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&?theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
 
 # Hi there! 👋
 My name is Chris, and I am an experienced software engineer with a passion for building scalable, performant, and user-friendly applications. With a background in both front-end and back-end development, I strive to create seamless digital experiences that drive value and impact.
